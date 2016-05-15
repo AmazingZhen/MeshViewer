@@ -1,6 +1,6 @@
 # MeshViewer
 A simple solution for reading and displaying mesh files, such as .off, .obj and so on.  
-Based on openGL and (openMesh)[http://www.openmesh.org/].
+Based on openGL and [openMesh](http://www.openmesh.org/).
 
 ## Development environment
 Win 8 64 bits, Visual Studio 2013
